@@ -10,4 +10,4 @@ Backend: FastAPI
 SQLAlchemy (ORM)
 Pydantic (валидация данных)
 Celery (асинхронная обработка аналитики)
-Uvicorn (ASGI-сервер)
+Uvicorn (ASGI-сервер).
